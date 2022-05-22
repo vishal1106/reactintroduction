@@ -1,0 +1,19 @@
+.main{
+    display: flex;
+    width: 90%;
+    background-color: black;
+color: white;
+justify-content: space-around;
+margin: auto;
+}
+.main1{
+    display: flex;
+ 
+
+}
+.main1>p{
+    margin-left: 10px;
+}
+button{
+    margin-top: 20px;
+}
